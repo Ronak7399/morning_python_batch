@@ -57,6 +57,8 @@ print(numbers)
 numbers.remove(17)
 print(numbers)
 
+# list datatype deatail
+
 
  
  
