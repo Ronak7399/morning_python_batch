@@ -17,6 +17,22 @@ if h==18:
     print("person eligible for vote")
 else:
     print("person not eligible for vote ") 
+
+# question 3
+
+i = int(input("please enter number i= "))
+print(i)
+
+j = int(input("please enter number j = "))
+print(j)
+
+if i<j:
+    print("i is minimum number ")
+else:
+    print("j is maximum")
+    
+    
+    
     
 
 
